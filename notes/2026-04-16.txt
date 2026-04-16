@@ -1,0 +1,36 @@
+1. Fundamentals of Ionization and Dissociation
+
+Why Study This?
+Real-world applications include neutralizing ant bites using baking soda (sodium bicarbonate) and understanding common substances like vinegar, soap, and salt.
+
+Ionization vs Dissociation:
+
+Ionization: Neutral molecules (like HCl) split into charged ions in a solution.
+Dissociation: Ionic compounds (like NaCl) separate into ions that already exist when dissolved in water.
+2. Understanding Acids
+
+Definition:
+An acid is a compound that releases hydronium ions (H₃O⁺) as the only positive ion in an aqueous solution.
+
+Strong vs Weak Acids:
+
+Strong acids: Ionize completely in water.
+Weak acids: Do not fully ionize and exist in equilibrium.
+3. Classification of Acids
+
+Based on Source:
+
+Organic Acids: Found in plants (e.g., acetic acid, formic acid).
+Inorganic/Mineral Acids: Derived from minerals (e.g., HCl, H₂SO₄).
+
+Based on Basicity:
+(Number of H₃O⁺ ions released per molecule)
+
+Monobasic: Releases one H₃O⁺ (e.g., HCl, HNO₃, acetic acid)
+Dibasic: Releases two H₃O⁺ (e.g., H₂SO₄, H₂CO₃, oxalic acid)
+Tribasic: Releases three H₃O⁺ (e.g., H₃PO₄)
+
+4. Safety: Diluting Acids
+Always add acid to water slowly while stirring.
+Reason:
+Dilution releases heat (exothermic reaction). Adding acid to water allows safe heat absorption, preventing splashing, boiling, or container damage.
